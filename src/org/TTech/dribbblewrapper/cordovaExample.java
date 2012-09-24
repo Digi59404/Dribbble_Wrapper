@@ -31,9 +31,7 @@ public class cordovaExample extends DroidGap
         super.onCreate(savedInstanceState);
         super.setIntegerProperty("splashscreen", R.drawable.splash); // Displays the splash screen for android
         super.loadUrl("file:///android_asset/www/index.html");
-        //super.loadUrl("javascript:window.onload=function() {div = document.getElementById('header');div.style.position = 'fixed';div.style.width='100%';div.style.zIndex='100';div1 = document.getElementById('wrap');div1.style.paddingTop = '67px';div1.style.zIndex='1'}");
-        //super.loadUrl("javascript:var script=document.createElement('script');script.type='text/javascript';script.src='http://debug.phonegap.com/target/target-script-min.js#dribble_wrap';document.getElementsByTagName('head').item(0).appendChild(script);");
-    }
+      }
 
 }
 
