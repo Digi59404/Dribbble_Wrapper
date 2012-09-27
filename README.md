@@ -12,11 +12,14 @@ How Does It Work?
 ================
 It takes an iFrame and load's Dribbble's website in the iFrame. When the page is loaded it injects custom Javascript to make a few changes.
 
-ToDo's
+Todo's
 ================
-* Add Splash Screen For Loading
 * Manipulate JS to make a better Dribbble header.
 * Add 404 For when the App loads Dribbble in the iFrame.
 * Add 404 For when the iFrame gets a 404.
 * Add Notice on start to show that website is copyright and such of dribbble.
 * Overwrite and make a better Login Page
+
+Done Todo's
+================
+* Add Splash Screen For Loading
